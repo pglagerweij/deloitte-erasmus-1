@@ -2,3 +2,6 @@ Initial Name
 
   git config --global user.email "raiva.dombrovska@gmail.com"
   git config --global user.name "raivad"
+
+  add smth
+  
