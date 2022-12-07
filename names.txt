@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Initial Name
 Chang Celis
+=======
+Marius Wolleswinkel
+>>>>>>> d4df06af4ff9c028660b0ff2692653415081094b
