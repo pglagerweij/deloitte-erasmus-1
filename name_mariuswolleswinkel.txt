@@ -1,4 +1,5 @@
-Marius Wolleswinkel
+Marius Wolleswinkel 
+Hi Marius
 git config --global user.name "MariusWolleswinkel"
 git config --global user.email "mariuswolleswinkel@gmail.com"
 git config --global user.name
